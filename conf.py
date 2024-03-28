@@ -8,10 +8,10 @@
 from importlib.metadata import version
 
 
-project = 'Project Starter'
+project = 'Project_Starter'
 copyright = '2024, David McFarland'
 author = 'David McFarland'
-version = release = version("Project Starter")
+version = release = version("Project_Starter")
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
