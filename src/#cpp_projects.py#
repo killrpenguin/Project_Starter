@@ -28,7 +28,8 @@ class New_CPP_Project:
                          'tests']
         
         self.base_dir_files = {'README.md':'https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md',
-                               'LICENSE.md': ['https://www.gnu.org/licenses/gpl-3.0.txt', 'https://gist.githubusercontent.com/adamveld12/b64e74d14d7d9043b85c/raw/2d4cf3afe445b79c3b496ce67e9d2ab3365232dd/LICENSE.txt'],
+                               'LICENSE.md': ['https://www.gnu.org/licenses/gpl-3.0.txt',
+                                              'https://gist.githubusercontent.com/adamveld12/b64e74d14d7d9043b85c/raw/2d4cf3afe445b79c3b496ce67e9d2ab3365232dd/LICENSE.txt'],
                                '.gitignore': 'https://raw.githubusercontent.com/github/gitignore/main/C%2B%2B.gitignore'}
 
 

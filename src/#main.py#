@@ -1,0 +1,5 @@
+from cpp_projects import New_CPP_Project
+
+
+def main() -> None:
+    new_project = New_CPP_Project("")
